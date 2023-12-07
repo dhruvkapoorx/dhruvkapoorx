@@ -3,7 +3,8 @@
  
 <h1 align="center">Hi 👋, I'm Dhruv Kapoor</h1>
 <h3 align="center">"Turning designs into delightful digital realities, one line of code at a time. 💻✨"</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 
 
@@ -42,7 +43,7 @@
 <div> 
 <p align = "left"> 
 <img src = "https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical"/> 
-<img align = "right" src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img align = "left" src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 </p>
 </div>
 
