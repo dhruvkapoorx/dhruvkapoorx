@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://64.media.tumblr.com/cad6d25d7e859f91d586bc08b93d0680/6138c75039bd424c-a7/s540x810/3cb85df6755edb3d2e8bd7601372a57c189b0c34.gif)
+ [![MasterHead](https://media1.tenor.com/m/4pHKbhmKAsgAAAAd/game-of-thrones-ready.gif)
 <h1 align="center">Hi 👋, I'm Dhruv Kapoor</h1>
 <h3 align="center">"Turning designs into delightful digital realities, one line of code at a time. 💻✨"</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
