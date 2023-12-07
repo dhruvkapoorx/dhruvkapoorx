@@ -1,3 +1,6 @@
+‹img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+
 # 💫 About Me:
 🌱 I’m currently learning : Next.js, Golang ,Rust<br>💬 Ask me about : React, Typescript, Vue<br>👨‍💻 All of my projects are available at : https://github.com/dhruvkapoorx<br>📫 How to reach me : Dhruvkapoordk12@gmail.com<br>⚡ Fun fact : "I speak fluent JavaScript and sarcasm—sometimes it's hard to tell the difference. 🤷‍♂️"
 
