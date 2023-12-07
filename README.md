@@ -1,3 +1,4 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Dhruv Kapoor</h1>
 <h3 align="center">"Turning designs into delightful digital realities, one line of code at a time. 💻✨"</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -16,8 +17,9 @@
 
 
   --------------------------
+<br/>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3> 
 <p align="left">
 <a href="https://linkedin.com/in/dhruv-kapoor-049546202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruv-kapoor-049546202" height="30" width="40" /></a>
 <a href="https://instagram.com/dhruuvkapoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhruuvkapoor" height="30" width="40" /></a>
