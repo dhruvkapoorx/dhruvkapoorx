@@ -2,7 +2,7 @@
 <h3 align="center">"Turning designs into delightful digital realities, one line of code at a time. 💻✨"</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
----
+
 
 - 🌱 I’m currently learning **Next.js, Golang ,Rust**
 
@@ -13,6 +13,9 @@
 - 📫 How to reach me **Dhruvkapoordk12@gmail.com**
 
 - ⚡ Fun fact **I speak fluent JavaScript and sarcasm—sometimes it's hard to tell the difference. 🤷‍♂️**
+
+
+  --------------------------
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
