@@ -1,5 +1,5 @@
 
- <p align="center"> <img src="https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d" alt="dhruvkapoorx" /></p>
+ <p align="center"> <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/12cbe8a4-f55c-4b40-85bb-d8e1405e7b84/dez5d9x-79cb89e0-a551-4731-82cd-399bbc6ea0c5.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEyY2JlOGE0LWY1NWMtNGI0MC04NWJiLWQ4ZTE0MDVlN2I4NFwvZGV6NWQ5eC03OWNiODllMC1hNTUxLTQ3MzEtODJjZC0zOTliYmM2ZWEwYzUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.F3BLEOSDxCVgRlKV6n0ureGuMiFeHbMtV5bN-SGVQRc" alt="dhruvkapoorx" /></p>
  
 <h1 align="center">Hi 👋, I'm Dhruv Kapoor</h1>
 <h3 align="center">"Turning designs into delightful digital realities, one line of code at a time. 💻✨"</h3>
@@ -39,7 +39,7 @@
 </div>
 <br/>
 
-### ✍️ Random Dev Quote | | Random Dev Meme 🤣
+### Random Dev Meme 🤣  | | ✍️ Random Dev Quote
 <div> 
 <p align = "left"> 
 <img src = "https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical"/> 
