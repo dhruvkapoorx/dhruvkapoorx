@@ -2,6 +2,8 @@
 <h3 align="center">"Turning designs into delightful digital realities, one line of code at a time. 💻✨"</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+---
+
 - 🌱 I’m currently learning **Next.js, Golang ,Rust**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dhruvkapoorx](https://github.com/dhruvkapoorx)
