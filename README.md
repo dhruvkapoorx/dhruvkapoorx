@@ -1,4 +1,4 @@
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Rethink+Sans&weight=500&size=30&&color=49F7DE&width=600&lines=Welcome+To+Dhruv's+GitHub+Profile!💻😏" alt="dhruvkapoorx" /></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Rethink+Sans&weight=500&size=30&&color=6D21F7&width=600&lines=Welcome+To+Dhruv's+GitHub+Profile!💻😏" alt="dhruvkapoorx" /></p>
 <p align="center"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/453a38d0-2347-4f5a-9203-aa8651a3bedd/deau4gq-a93d7423-9518-47d3-90b9-27623b688a48.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQ1M2EzOGQwLTIzNDctNGY1YS05MjAzLWFhODY1MWEzYmVkZFwvZGVhdTRncS1hOTNkNzQyMy05NTE4LTQ3ZDMtOTBiOS0yNzYyM2I2ODhhNDguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.evfJg5jgrfEq5oiEgokA-RglVPoEnCPyfk2vQYr82uc"/></p>
  
 
